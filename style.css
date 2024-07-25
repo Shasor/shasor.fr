@@ -14,9 +14,9 @@ body {
 }
 
 .flashing {
-  font-size: 50px;
+  font-size: 100px;
   color: red;
-  animation: flash 1s infinite;
+  animation: flash 2s infinite;
 }
 
 @keyframes flash {
